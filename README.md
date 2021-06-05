@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shafayet Zim very passionate to achieve skills in the respective fields.
 - 👀 I’m interested in web developing.
 - 🌱 I’m currently doing some projects.
-- 💞️ I’m looking to collaborate on financial institutions.
+- 💞️ I’m looking to collaborate with financial institutions.
 - 📫 Feel free to reach me on email shafayet.zim@northsouth.edu
 
 <!---
