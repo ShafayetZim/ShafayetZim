@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing.
 - 🌱 I’m currently doing some projects.
 - 💞️ I’m looking to collaborate on financial institutions.
-- 📫 Feel free to reach me email shafayet.zim@northsouth.edu
+- 📫 Feel free to reach me on email shafayet.zim@northsouth.edu
 
 <!---
 ShafayetZim/ShafayetZim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
